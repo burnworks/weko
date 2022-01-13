@@ -504,3 +504,9 @@ RECORDS_UI_TOMBSTONE_TEMPLATE = 'weko_records_ui/tombstone.html'
 
 WEKO_RECORDS_UI_LANG_DISP_FLG = False 
 """ Enable function of switching metadata by language of metadata """
+
+WEKO_RECORDS_UI_DISPLAY_ONLINE_ANALYSIS_FLG = True
+""" Display online analysis button on item detail. """
+
+WEKO_RECORDS_UI_ONLINE_ANALYSIS_URL = ''
+""" URL for online analysis button. """
